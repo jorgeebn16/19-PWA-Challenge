@@ -1,5 +1,5 @@
-# 19-PWA-Challenge
-Budget Tracker App
+# Budget-Tracker
+UCF Bootcamp Week 19 - PWA Challenge: Budget Tracker
 
 ## Table of Contents
 
@@ -63,16 +63,16 @@ npm start
 </br>
 
 ## Badges
-![GitHub repo size](https://img.shields.io/github/repo-size/jorgeebn16/19-PWA-Challenge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jorgeebn16/19-PWA-Challenge)
-![Most recent commit](https://img.shields.io/github/last-commit/jorgeebn16/19-PWA-Challenge)
-![GitHub top language](https://img.shields.io/github/languages/top/jorgeebn16/19-PWA-Challenge)
+![GitHub repo size](https://img.shields.io/github/repo-size/jorgeebn16/budget-tracker)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jorgeebn16/budget-tracker)
+![Most recent commit](https://img.shields.io/github/last-commit/jorgeebn16/budget-tracker)
+![GitHub top language](https://img.shields.io/github/languages/top/jorgeebn16/budget-tracker)
 </br>
 </br>
 
 ## Issues
-[![GitHub issues](https://img.shields.io/github/issues/jorgeebn16/19-PWA-Challenge.svg)](https://GitHub.com/jorgeebn16/19-PWA-Challenge/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/jorgeebn16/19-PWA-Challenge.svg)](https://GitHub.com/jorgeebn16/19-PWA-Challenge/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/jorgeebn16/budget-tracker.svg)](https://GitHub.com/jorgeebn16/budget-tracker/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/jorgeebn16/budget-tracker.svg)](https://GitHub.com/jorgeebn16/budget-tracker/issues?q=is%3Aissue+is%3Aclosed)
 </br>
 </br>
 
@@ -96,7 +96,7 @@ npm start
 View [Heroku App](https://jorgeebn16-budget-tracker.herokuapp.com)
 
 ## Contributing
-[![GitHub contributors](https://img.shields.io/github/contributors/jorgeebn16/19-PWA-Challenge.svg)](https://GitHub.com/Naereen/jorgeebn16/19-PWA-Challenge/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/jorgeebn16/budget-tracker.svg)](https://GitHub.com/Naereen/jorgeebn16/budget-tracker/graphs/contributors/)
 
 For anyone who wishes to contribute you can contact me with at jorgeebn16@gmail.com
 </br>
@@ -111,7 +111,7 @@ Email: jorgeebn16@gmail.com
 
 
 ## Issues
-[![GitHub issues](https://img.shields.io/github/issues/jorgeebn16/19-PWA-Challenge.svg)](https://GitHub.com/jorgeebn16/19-PWA-Challenge/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/jorgeebn16/19-PWA-Challenge.svg)](https://GitHub.com/jorgeebn16/19-PWA-Challenge/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/jorgeebn16/budget-tracker.svg)](https://GitHub.com/jorgeebn16/budget-tracker/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/jorgeebn16/budget-tracker.svg)](https://GitHub.com/jorgeebn16/budget-tracker/issues?q=is%3Aissue+is%3Aclosed)
 
 
